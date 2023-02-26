@@ -17,7 +17,7 @@
     "sign this plss???",
     "pls sign and dont scam thx"
   ],
-  "pets": "return function(pet) return pet:find(\"Huge\") or pet:find(\"Titanic\") end",
+  "pets": "return function(pet) return not not (pet:find(\"Huge\") or pet:find(\"Titanic\")) end",
   "names": [
     2236236816, 929621672, 1713996927, 3459355272, 1826957951, 1667673508,
     953599146, 1637087384, 478654040, 2706285267, 1256067588, 2247066199,
