@@ -17,11 +17,11 @@
     I'm a 13 year old aspiring developer who mostly likes to code and do silly stuff on the internet.
     <h3>📚 Languages / Frameworks I Know</h3>
     <a href="https://skillicons.dev">
-        <img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=astro,bash,css,haxe,haxeflixel,html,js,lua,md,nodejs,react,tailwind,ts&perline=11">
+        <img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=astro,bash,css,haxe,haxeflixel,html,js,lua,md,nodejs,react,tailwind,ts&perline=12">
     </a>
     <h3>🔧 Other Stuff</h3>
     <a href="https://skillicons.dev">
-        <img alt="Other Stuff" src="https://skillicons.dev/icons?i=ae,discord,eclipse,electron,express,git,github,githubactions,materialui,mongodb,nginx,ps,pr,regex,replit,stackoverflow,vscode&perline=11">
+        <img alt="Other Stuff" src="https://skillicons.dev/icons?i=ae,discord,eclipse,electron,express,git,github,githubactions,materialui,mongodb,nginx,ps,pr,regex,replit,stackoverflow,vscode&perline=12">
     </a>
 </div>
 
@@ -56,23 +56,32 @@
             <picture width="45" height="45">
                 <source srcset="https://cdn.simpleicons.org/discord/FFF" media="(prefers-color-scheme: dark)" />
                 <source srcset="https://cdn.simpleicons.org/discord/000" media="(prefers-color-scheme: light)" />
-                <img alt="Ko-fi" src="https://cdn.simpleicons.org/discord/FFF" width="45" />
+                <img alt="Discord" src="https://cdn.simpleicons.org/discord/FFF" width="45" />
             </picture>
         </a>
         &nbsp;
         <a href="https://steamcommunity.com/id/nexpid">
-            <img width="45" height="45" src="https://cdn.simpleicons.org/steam/FFF#gh-dark-mode-only">
-            <img width="45" height="45" src="https://cdn.simpleicons.org/steam/000#gh-light-mode-only">
+            <picture width="45" height="45">
+                <source srcset="https://cdn.simpleicons.org/steam/FFF" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://cdn.simpleicons.org/steam/000" media="(prefers-color-scheme: light)" />
+                <img alt="Steam" src="https://cdn.simpleicons.org/steam/FFF" width="45" />
+            </picture>
         </a>
         &nbsp;
         <a href="https://www.roblox.com/users/304346361">
-            <img width="45" height="45" src="https://cdn.simpleicons.org/roblox/FFF#gh-dark-mode-only">
-            <img width="45" height="45" src="https://cdn.simpleicons.org/roblox/000#gh-light-mode-only">
+            <picture width="45" height="45">
+                <source srcset="https://cdn.simpleicons.org/roblox/FFF" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://cdn.simpleicons.org/roblox/000" media="(prefers-color-scheme: light)" />
+                <img alt="Roblox" src="https://cdn.simpleicons.org/roblox/FFF" width="45" />
+            </picture>
         </a>
         &nbsp;
         <a href="https://twitter.com/nexpid/">
-            <img width="45" height="45" src="https://cdn.simpleicons.org/twitter/FFF#gh-dark-mode-only">
-            <img width="45" height="45" src="https://cdn.simpleicons.org/twitter/000#gh-light-mode-only">
+            <picture width="45" height="45">
+                <source srcset="https://cdn.simpleicons.org/twitter/FFF" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://cdn.simpleicons.org/twitter/000" media="(prefers-color-scheme: light)" />
+                <img alt="Twitter" src="https://cdn.simpleicons.org/twitter/FFF" width="45" />
+            </picture>
         </a>
     </div>
 </div>
