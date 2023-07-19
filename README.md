@@ -17,11 +17,11 @@
     I'm a 13 year old aspiring developer who mostly likes to code and do silly stuff on the internet.
     <h3>📚 Languages / Frameworks I Know</h3>
     <a href="https://skillicons.dev">
-        <img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=astro,bash,css,haxe,haxeflixel,html,js,lua,md,nodejs,react,tailwind,ts&perline=12">
+        <img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=astro,bash,css,haxe,haxeflixel,html,js,lua,md,nodejs,react,tailwind,ts&perline=13">
     </a>
     <h3>🔧 Other Stuff</h3>
     <a href="https://skillicons.dev">
-        <img alt="Other Stuff" src="https://skillicons.dev/icons?i=ae,discord,eclipse,electron,express,git,github,githubactions,materialui,mongodb,nginx,ps,pr,regex,replit,stackoverflow,vscode&perline=12">
+        <img alt="Other Stuff" src="https://skillicons.dev/icons?i=ae,discord,eclipse,electron,express,git,github,githubactions,materialui,mongodb,nginx,ps,pr,regex,replit,stackoverflow,vscode&perline=13">
     </a>
 </div>
 
