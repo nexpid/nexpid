@@ -1,4 +1,6 @@
-<code>$ cat README.md</code>
+```
+$ cat README.md
+```
 
 ---
 
