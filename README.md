@@ -1,4 +1,4 @@
-`$ cat README.md`
+<kbd>$ cat README.md</kbd>
 
 ---
 
