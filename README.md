@@ -3,6 +3,10 @@
 ---
 
 <div align="center">
+    <a href="https://api.statusbadges.me/openspotify/853550207039832084">
+        <img src="https://api.statusbadges.me/badge/spotify/853550207039832084?style=for-the-badge&labelColor=%231e1e2e&color=%23cba6f7">
+    </a>
+    &nbsp;
     <a href="https://pronoundb.org/">
         <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fpronoundb.org%2Fshields%2F614b68364828524b8a3a121f&style=for-the-badge&labelColor=%231e1e2e&color=%23cba6f7">
     </a>
