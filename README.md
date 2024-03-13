@@ -12,13 +12,13 @@
     </a>
     &nbsp;
     <a href="https://en.wikipedia.org/wiki/Ages_of_consent_by_country">
-        <img src="https://img.shields.io/badge/age-13-cba6f7?style=for-the-badge&labelColor=1e1e2e">
+        <img src="https://img.shields.io/badge/age-14-cba6f7?style=for-the-badge&labelColor=1e1e2e">
     </a>
 </div>
 
 <div align="center">
     <h3>👋 Hey, I'm Nexpid</h3>
-    I'm a 13 year old aspiring developer who mostly likes to code and do silly stuff on the internet.
+    I'm a **14** year old aspiring developer who mostly likes to code and do silly stuff on the internet.
     <h3>📚 Languages / Frameworks I Know</h3>
     <a href="https://skillicons.dev">
         <img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=astro,bash,css,haxe,haxeflixel,html,js,lua,md,nodejs,react,tailwind,ts&perline=13">
