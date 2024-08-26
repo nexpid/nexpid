@@ -80,7 +80,7 @@
             </picture>
         </a>
         &nbsp;
-        <a href="https://x/nexpid/">
+        <a href="https://x.com/nexpid/">
             <picture width="45" height="45">
                 <source srcset="https://cdn.simpleicons.org/x/FFF" media="(prefers-color-scheme: dark)" />
                 <source srcset="https://cdn.simpleicons.org/x/000" media="(prefers-color-scheme: light)" />
