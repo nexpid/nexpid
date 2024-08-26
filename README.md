@@ -80,11 +80,11 @@
             </picture>
         </a>
         &nbsp;
-        <a href="https://twitter.com/nexpid/">
+        <a href="https://x/nexpid/">
             <picture width="45" height="45">
-                <source srcset="https://cdn.simpleicons.org/twitter/FFF" media="(prefers-color-scheme: dark)" />
-                <source srcset="https://cdn.simpleicons.org/twitter/000" media="(prefers-color-scheme: light)" />
-                <img alt="Twitter" src="https://cdn.simpleicons.org/twitter/FFF" width="45" />
+                <source srcset="https://cdn.simpleicons.org/x/FFF" media="(prefers-color-scheme: dark)" />
+                <source srcset="https://cdn.simpleicons.org/x/000" media="(prefers-color-scheme: light)" />
+                <img alt="Twitter" src="https://cdn.simpleicons.org/x/FFF" width="45" />
             </picture>
         </a>
     </div>
