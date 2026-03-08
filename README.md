@@ -16,7 +16,7 @@
 
 <div align="center">
     <h3>👋 Hey, I'm Nexpid</h3>
-    I'm a <b>15</b> year old aspiring developer who mostly likes to code and do silly stuff on the internet.
+    I'm a <b>16</b> year old aspiring developer who mostly likes to code and do silly stuff on the internet.
     <h3>📚 Languages / Frameworks I Know</h3>
     <a href="https://skillicons.dev">
         <img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=astro,bash,css,haxe,haxeflixel,html,js,lua,md,nodejs,react,tailwind,ts&perline=13">
